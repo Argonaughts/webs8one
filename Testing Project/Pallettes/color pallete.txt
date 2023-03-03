@@ -1,0 +1,8 @@
+background 
+#C75FFF
+
+hover 
+#FFC75F
+
+Text
+#fff
